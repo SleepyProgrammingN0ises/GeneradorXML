@@ -5,3 +5,6 @@ sus contenidos se basan en un elemento raíz "<bbddDiscos>", y cuantas
 columnas/datos tenga la BBDD.
 
 ATENCIÓN: los ficheros se crean usando tabulaciones
+
+TODO: Detectar por ID las entradas ya introducidas, e ir añadiendo según
+estas ((detectar con foreach/lectura auto.??))
