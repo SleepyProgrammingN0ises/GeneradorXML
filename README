@@ -1,0 +1,7 @@
+README/LEAME
+
+El fichero XML se crea automáticamente al ejecutar el script PHP;
+sus contenidos se basan en un elemento raíz "<bbddDiscos>", y cuantas
+columnas/datos tenga la BBDD.
+
+ATENCIÓN: los ficheros se crean usando tabulaciones
