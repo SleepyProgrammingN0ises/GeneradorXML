@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bbddDiscos>
+	<disco>
+		<id_cd>1</id_cd> 
+		<title>Empire Burlesque</title> 
+		<artist>Bob Dylan</artist> 
+		<country>EEUU</country> 
+		<company>Sony Music</company> 
+		<price>19.99</price> 
+		<year>1985</year> 
+	</disco>
+	<disco>
+		<id_cd>2</id_cd> 
+		<title>Hide your Heart</title> 
+		<artist>Bonnie Tyler</artist> 
+		<country>EN</country> 
+		<company>Sony Music</company> 
+		<price>19.99</price> 
+		<year>1988</year> 
+	</disco>
+	<disco>
+		<id_cd>3</id_cd> 
+		<title>Greatest Hits</title> 
+		<artist>Dolly Parton</artist> 
+		<country>EEUU</country> 
+		<company>Palt Records</company> 
+		<price>25.99</price> 
+		<year>1982</year> 
+	</disco>
+	<disco>
+		<id_cd>4</id_cd> 
+		<title>YHLQMDLG</title> 
+		<artist>Bad Bunny</artist> 
+		<country>PR</country> 
+		<company>Unlimited Music</company> 
+		<price>25.99</price> 
+		<year>2020</year> 
+	</disco>
+	<disco>
+		<id_cd>5</id_cd> 
+		<title>Still got the blues</title> 
+		<artist>Gary Moore</artist> 
+		<country>EN</country> 
+		<company>Palt Records</company> 
+		<price>19.95</price> 
+		<year>1990</year> 
+	</disco>
+	<disco>
+		<id_cd>6</id_cd> 
+		<title>Eros</title> 
+		<artist>Eros Ramazzotti</artist> 
+		<country>IT</country> 
+		<company>BMG</company> 
+		<price>19.99</price> 
+		<year>1997</year> 
+	</disco>
+	<disco>
+		<id_cd>7</id_cd> 
+		<title>One night only</title> 
+		<artist>Bee Gees</artist> 
+		<country>EN</country> 
+		<company>MGM</company> 
+		<price>25.95</price> 
+		<year>1998</year> 
+	</disco>
+</bbddDiscos>

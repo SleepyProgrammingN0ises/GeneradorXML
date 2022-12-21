@@ -1,0 +1,10 @@
+Script en PHP que crea automáticamente al ejecutarse un fichero XML;
+sus contenidos se basan en una etiqueta raíz "<bbddDiscos>", y tantas
+columnas/datos como tenga la BBDD.
+
+<//--Cambiar constantes de nombre de Tabla y BBDD por las propias en conexionBD.php--//>
+
+ATENCIÓN: los ficheros se crean usando tabulaciones
+
+TODO: Detectar por ID las entradas ya introducidas, e ir añadiendo según
+estas ((detectar con foreach/lectura auto.??))
